@@ -1,0 +1,2 @@
+# GreetingsTesting
+Junit tests
